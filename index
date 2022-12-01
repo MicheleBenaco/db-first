@@ -1,0 +1,3 @@
+idAuto           Marca         Annno      Colore         Cavalli           Propietari  
+mediumint(100)   varchar(50)   year        varchar(50)   Mediumint(2000)   Tinyint(100)  
+auto_increment   notnull       notnull      notnull     notnull            null
